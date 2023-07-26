@@ -1,4 +1,4 @@
 # Hangman.github.io
 Word Guess Game Using JavaScript
-# Lice Demo
+# Live Demo
 https://vinayak-asati.github.io/Hangman.github.io/
